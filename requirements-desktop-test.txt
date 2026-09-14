@@ -1,0 +1,10 @@
+# For trying the app on a desktop computer (Windows/macOS/Linux) before
+# building the Android APK. Kivy will run the exact same code as a normal
+# desktop window — useful for quick testing without needing a phone.
+
+kivy>=2.3.1,<3.0
+opencv-python-headless>=4.9,<5.0
+numpy>=1.26,<3.0
+Pillow>=10.0
+img2pdf>=0.5
+plyer>=2.1
